@@ -22,6 +22,15 @@ Sounds too good to be true? Keep reading. This is for you.
 
 ---
 
+Portable Secret is not a product and it is barely a project.
+**It is just a neat trick, a *hack***.
+
+The [source code](https://github.com/mprimi/portable-secret) and [creator tool](https://mprimi.github.io/portable-secret/creator/) are provided as a demonstration.
+
+**Update January 2023**: [Rocky W.](https://www.rocky.dev/) took this idea and ran with it, creating a beautiful full-fledged product: [PrivacyProtect.dev](https://www.privacyprotect.dev/)
+
+---
+
 ## How it works
 
 A 'Portable Secret' is simply an HTML file that also contains:
@@ -42,14 +51,6 @@ The embedded code is straightforward:
  - Take the password and generate a key
  - Use the key to decrypt the payload
  - Display the decrypted secret
-
----
-
-Portable Secret is not a product and it is barely a project.
-**It is just a neat trick, a *hack***.
-
-The [source code](https://github.com/mprimi/portable-secret) and [creator tool](https://mprimi.github.io/portable-secret/creator/) are provided as a demonstration.
-
 
 ---
 
@@ -112,12 +113,29 @@ I cannot take responsibility for such misuse any more than a hammer manufacturer
 
 I came up with Portable Secret on my own, but I have since found a few projects that do something similar.
 
-https://github.com/kaushalmeena/digi-cloak
+[StatiCrypt](https://github.com/robinmoisson/staticrypt)
 
-https://9p4.github.io/hackna/
+[PolySafe](https://github.com/fmeum/polysafe)
 
+[`hscrypt`](https://smondet.gitlab.io/hscrypt/)
 
-If you are aware of other similar projects, please let me know and I'll link them here.
+[Hypervault](http://hypervault.github.io)
+
+[Encrypted HTML Vault](https://github.com/ccorcos/encrypted-html-vault)
+
+[UltraCrypt](https://9p4.github.io/hackna/)
+
+[html-vault](https://github.com/dividuum/html-vault)
+
+[Password Protect My File](https://github.com/louissobel/ppmf)
+
+[Emergency Contacts](https://github.com/jwillmer/emergency-contacts)
+
+[Digi-Cloak](https://github.com/kaushalmeena/digi-cloak)
+
+[Pretty Easy Privacy](https://prettyeasyprivacy.xyz/)
+
+If you are aware of other similar/related projects, please let me know and I'll link them here.
 
 ### Feedback
 
